@@ -2,7 +2,7 @@
 This repository is focused on the practices of the CS50x course of Harvard University
 
 ## 🚧 PROJECTS
-- [ ] WEEK 0 - SCRATCH
+- [x] WEEK 0 - SCRATCH
 - [ ] WEEK 1 - C 
 - [ ] WEEK 2 - ARRAYS
 - [ ] WEEK 3 - ALGORITHMS
