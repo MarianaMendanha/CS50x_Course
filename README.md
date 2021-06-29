@@ -23,6 +23,7 @@ This repository is focused on the practices of the CS50x course of Harvard Unive
 ## Challenges
 
 ### 🛠 0.  [Submit this problem on scratch](https://cs50.harvard.edu/x/2021/psets/0/scratch/)
+Description: My scratch project is a short pokemon story with interactive paths, the user can choose between 3 paths clicking on one of the buttons that appears ("Whip", "compliment" or "go away"). Go to [Scratch](https://scratch.mit.edu/), click GO and choose a path.
 
 ### ⚙️ 1.  []()
 
